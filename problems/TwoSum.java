@@ -1,4 +1,4 @@
-class Solution {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {             
 	        Map<Integer,Integer> set = new HashMap();
 			int l = nums.length;
